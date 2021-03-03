@@ -49,7 +49,7 @@ var["pi"] = 3.14159f;
 var["colours"] = { "Red", "Green", "Blue" }
 
 // add a null value
-var["nothing"] = json_var();
+var["nothing"] = nullptr;
 
 // add a boolean
 var["enabled"] = true;
